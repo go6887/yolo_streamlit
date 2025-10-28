@@ -1,6 +1,6 @@
 # YOLO Streamlit
 
-Ultralytics YOLOとStreamlitを組み合わせて、ブラウザ上でリアルタイムに物体検出を試せるアプリです。画像アップロードによる推論とWebカメラによるリアルタイムでの推論がためせます。
+[Ultralytics YOLO](https://docs.ultralytics.com/ja/)と[Streamlit](https://streamlit.io/)を組み合わせて、ブラウザ上でリアルタイムに物体検出を試せるアプリです。画像アップロードによる推論とWebカメラによるリアルタイムでの推論がためせます。
 
 ## アプリ概要
 
