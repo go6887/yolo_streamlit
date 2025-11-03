@@ -5,7 +5,6 @@ import os
 from PIL import Image
 
 from streamlit_webrtc import webrtc_streamer
-import cv2
 import av
 
 IMG_PATH = "./images"
